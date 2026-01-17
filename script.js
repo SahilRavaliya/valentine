@@ -25,7 +25,7 @@ function handleNoClick() {
 function handleYesClick() {
     // WhatsApp message configuration
     const phoneNumber = "919173794195";
-    const message = "She said YES! ❤️❤️❤️";
+    const message = "YES! Absolutely, with all my heart ❤️❤️❤️ ";
     const encodedMessage = encodeURIComponent(message);
     
     // Open WhatsApp with pre-filled message
