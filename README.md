@@ -1,4 +1,4 @@
-# ❤️ Valentine Yes Page
+# valentine
 
 A fun, interactive Valentine project made with **HTML, CSS, and JavaScript**.  
 Built to ask a simple question — and celebrate when the answer is **yes** 💘
@@ -18,7 +18,7 @@ Built to ask a simple question — and celebrate when the answer is **yes** 💘
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Sahil Ravaliya
 
 - **HTML**
 - **CSS**
@@ -41,12 +41,3 @@ project/
     └── yes.gif
 
 
-## How to Run
-
-Clone the repository
-
-git clone https://github.com/tload69/valentine.git
-
-
-Open index.html in your browser
-(No server required)
